@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Capa do projeto" src="./images/imgfront.png" width="100%">
+  <img alt="Capa do projeto" src="[./images/imgfront.png](https://github.com/fisiofaz/TreineMe.Costumizado/blob/main/images/Sem%20t%C3%ADtulo.png)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
